@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "588672557368",
+    "project_id": "backendexample-fb688",
+    "storage_bucket": "backendexample-fb688.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588672557368:android:f26cd2191522a3396321cd",
+        "android_client_info": {
+          "package_name": "com.example.backendexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588672557368-tak1s9bqtim0o7r2re7p9hcdlrek1mna.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXL0J4l39qeM8MBY1I2KmXrn11p3_hw2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588672557368-tak1s9bqtim0o7r2re7p9hcdlrek1mna.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
